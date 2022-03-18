@@ -48,7 +48,9 @@
     ]
   },
   "devDependencies": {
+    "http-proxy-middleware": "^2.0.4",
     "sass": "^1.49.9",
-    "sass-loader": "^12.6.0"
+    "sass-loader": "^12.6.0",
+    "typescript-plugin-css-modules": "^3.4.0"
   }
 }
